@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1578458644 source:d:\latihan\latihan\fungsi.c
+	"header.h"
+
+1578455120 d:\latihan\latihan\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1578462247 source:d:\latihan\latihan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
